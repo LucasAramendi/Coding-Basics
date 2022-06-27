@@ -1,3 +1,40 @@
-h4 {
-	font-style: italic;
+*{
+	padding: center;
+	margin: margin; 
+}
+h1{
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 20px;	
+}
+img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	object-fit: cover;
+}
+.conteudo{
+	display: flex;
+	margin: 60px;
+}
+
+.seccion{
+	display: flex;
+	align-items: center;
+	padding: 40px;
+}
+.menu-sec{
+	width: 20%;
+	margin-top: 60px;
+}
+}
+footer{
+	background-color: black;
+	color: white;
+	padding: 20px;
+}
+
+body{
+	
 }
